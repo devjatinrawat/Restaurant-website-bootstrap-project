@@ -11,7 +11,7 @@ Link: https://pastacosi.netlify.app
 - Clone the repository:
 
 ```bash
-git clone https://github.com/AouintiAhmed/bootstrap-restaurant-app.git
+git clone [https://github.com/AouintiAhmed/bootstrap-restaurant-app.git](https://github.com/devjatinrawat/Restaurant-website-bootstrap-project/edit/main/bootstrap-restaurant-app-main/README.md)
 ```
 
 - Open **`index.html`** in your browser, and enjoy !
